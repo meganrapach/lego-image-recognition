@@ -33,7 +33,7 @@ As a proof of concept, we trained our image recognition model with images of 4 d
 * Colors - Red, Yellow, Green, Blue
 * Sizes - 2x2, 2x3, 2x4
 
-# Approach - Tools & Technologies
+## Tools & Technologies
 
 For our project, we used several tools to implement our algorithm. These tools include TensorFlow, Transfer Learning, and TensorBoard.
 TensorFlow is a free, open-source machine learning tool that contains serval libraries and other resources for numerical computation machine learning projects. Popular use cases for TensorFlow include voice and sound recognition, text-based analysis applications, image recognition, time series analysis, and video detection. For our project, we use TensorFlow to train a classifier to classify our LEGO bricks by color and size.
@@ -42,7 +42,7 @@ Transfer Learning refers to a machine learning method in which a model that has 
 
 To visualize the performance of our image recognition model, we used TensorBoard. TensorBoard is a dashboard that shows a graphical representation of the accuracy and cross entropy of the learning model. This tool was very useful because it allowed us to see how our re-training of the existing model was affected by the addition of our new classes, as well as see how well our model performed in terms of accuracy.
 
-# Approach - Data Collection
+## Data Collection
 
 In order to re-train the ImageNet model, we had to provide our own images of the LEGO bricks. We used the photo burst feature on our iPhones to take several pictures of each classifier, then made a directory for each classifier and placed the images in the corresponding folder. We attempted to make the images of each classifier as similar as possible, using the same back-drop (a white sheet of printer paper) and taking the pictures from similar angles at roughly the same distance from each brick. In total, we took around 3,100 images of LEGO bricks!
 
