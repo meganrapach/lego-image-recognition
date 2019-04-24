@@ -138,7 +138,7 @@ Now we are ready to test our model with a test image of a LEGO brick. First, we 
       
 As an example, save the following image as IMG_6852.jpg to tf_files/Red_2x2
 
-![Image of Red 2x2](https://github.com/meganrapach/lego-image-recognition/tf_files/test_images/Red_2x2/IMG_6852.jpg)
+![Image of Red 2x2](/tf_files/test_images/Red_2x2/IMG_6852.jpg)
 
 Once the image is saved to the aforementioned directory, we can run the label_image.py script to test the model’s ability to classify this image as a Red 2x2 LEGO brick. Run the following command to classify the image.
 
