@@ -1,0 +1,12 @@
+blue 2x2
+blue 2x3
+blue 2x4
+green 2x2
+green 2x3
+green 2x4
+red 2x2
+red 2x3
+red 2x4
+yellow 2x2
+yellow 2x3
+yellow 2x4
